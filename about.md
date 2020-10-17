@@ -1,1 +1,4 @@
-My name is Alisa Azarova and I am an architect.
+hey 
+i am Alisa and i study architecture
+
+while it is great to believe in one self, a little help from others can be a great blessing
