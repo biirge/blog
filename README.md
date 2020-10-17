@@ -1,2 +1,2 @@
 # blog
-we can do it together
+biirge stands for together
