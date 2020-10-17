@@ -21,7 +21,7 @@
 title: biirge -- alisa azarova
 email: (coming soon)
 description: >- # this means to ignore newlines until "baseurl:"
-Welcome to my blog site.
+  Welcome to my blog site.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://biirge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
